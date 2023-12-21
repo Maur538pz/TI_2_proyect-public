@@ -1,0 +1,42 @@
+.contCanvas{
+    background-color: aqua;
+}
+
+
+
+
+
+
+.render{
+    width: 100%;
+    height: 100vh;
+}
+.hiden{
+    position: absolute;
+    top: 0px;
+    right:0px;
+    width:600px;
+    height: 100vh;
+    transform: translateX(900px);
+    transition: transform 1s;
+    background-color: blue;
+
+}
+.mostrar{
+    right:0px;
+    transform: translateX(0px);
+}
+
+
+
+.nameProvincia{
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+    font-size: 80px;
+}
+.pepo{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
