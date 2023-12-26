@@ -1,0 +1,29 @@
+[
+    {
+        "title":"nombre_de_la_provincia",
+        "ecosistemas":[{},{},{}],
+        "animales":[{}]
+    },
+
+
+
+    {
+        "title":"nombre_de_la_provincia",
+        "ecosistemas":[],
+        "animales":[]
+    },
+    {
+        "title":"nombre_de_la_provincia",
+        "ecosistemas":[],
+        "animales":[]
+    },
+    
+    {
+        "title":"este es el nombre del ecosistema o animal",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmHtkS-XhXjlgT717FIRUUrPikYPydX6dpBd46cjVrQ&s",
+        "status":2,
+        "description":"una descripcion breve",
+        "content":"y aqui si un texto un poco alrgo 1 parrafo o 3 a 4 lineas de texto"
+    }
+]
+

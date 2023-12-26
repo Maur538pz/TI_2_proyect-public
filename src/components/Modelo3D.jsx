@@ -13,7 +13,7 @@ export const Modelo3D = ({setSite, setView}) =>{
 
 
     useEffect(()=>{
-        console.log('pepepepe')
+        //console.log('pepepepe')
         const currentRef = mountRef.current
         const {clientWidth: width, clientHeight: height} = currentRef
 
@@ -67,14 +67,14 @@ export const Modelo3D = ({setSite, setView}) =>{
                     setView(true)
                     setSite(selected)
                     gsap.to(camera.position,{
-                        x:currentPosGlobal.x,
+                        x:currentPosGlobal.x+2,
                         y:10,
                         z:(currentPosGlobal.z)+adc,
                         duration:2
                     })
 
                     gsap.to(mapControls.target,{
-                        x:currentPosGlobal.x,
+                        x:currentPosGlobal.x+2,
                         y:0,
                         z:currentPosGlobal.z,
                         duration:2
@@ -123,6 +123,7 @@ export const Modelo3D = ({setSite, setView}) =>{
             groupMesh.traverse((child)=>{
                 if(child instanceof THREE.Mesh){
                     let materialMesh = new THREE.MeshStandardMaterial()
+                    materialMesh.color.set(0x15568f)
                     child.material=materialMesh
                     groupCollitions.push(child)
                 }
@@ -160,22 +161,24 @@ export const Modelo3D = ({setSite, setView}) =>{
 
 
         //luz ambiental
-        const lightAmbiental = new THREE.AmbientLight(0x404040,10)
+        const lightAmbiental = new THREE.AmbientLight(0xf2f8fd,1)
         scene.add(lightAmbiental)
 
         const axesHelper = new THREE.AxesHelper(10)
-        scene.add(axesHelper)
+        //scene.add(axesHelper)
 
         //RAYCASTER
         const raycaster = new THREE.Raycaster()
 
         //let plane = new THREE.Plane(new THREE.Vector3(0, 0, 1), 0);
         const geometryPlane = new THREE.PlaneGeometry(45,45)
-        const materialPlane = new THREE.MeshBasicMaterial({color: 0xffff00, side: THREE.DoubleSide} )
+        const materialPlane = new THREE.MeshBasicMaterial({color: 0x3995da, side: THREE.DoubleSide} )
         const plane = new THREE.Mesh(geometryPlane,materialPlane)
         plane.rotation.x=-Math.PI/2
         scene.add(plane)
 
+        const colorBlue = new THREE.Color(0x3995da)
+        const colorBlueHover = new THREE.Color('#8bc2ee')
 
         const sceneAnimation = () =>{
             //colisiones
@@ -187,9 +190,9 @@ export const Modelo3D = ({setSite, setView}) =>{
                 if(original.name!==selected){
                     //console.log(original.name)
                     gsap.to(original.material.color,{
-                        r:1,
-                        g:1,
-                        b:1,
+                        r:colorBlue.r,
+                        g:colorBlue.g,
+                        b:colorBlue.b,
                         duration:2,
                         overwrite:true
                     })
@@ -198,9 +201,9 @@ export const Modelo3D = ({setSite, setView}) =>{
 
             if(raycastercollitions.length){
                 gsap.to(raycastercollitions[0].object.material.color,{
-                    r:1,
-                    g:0,
-                    b:0,
+                    r:colorBlueHover.r,
+                    g:colorBlueHover.g,
+                    b:colorBlueHover.b,
                     duration:1,
                     overwrite:true
                 })

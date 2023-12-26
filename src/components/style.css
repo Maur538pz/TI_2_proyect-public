@@ -1,3 +1,7 @@
+@font-face{
+    font-family: 'Evogria';
+    src:local('Evogria'), url(../assets/fonts/Evogria.otf) format('opentype');
+}
 .contCanvas{
     background-color: aqua;
 }
@@ -10,19 +14,30 @@
 .render{
     width: 100%;
     height: 100vh;
+    overflow: hidden;
 }
+
+/*-------------------CONTENT-RIGHT-SECCTION-----------------------*/
 .hiden{
     position: absolute;
+    padding:15px;
     top: 0px;
     right:0px;
-    width:600px;
+    width:650px;
     height: 100vh;
     transform: translateX(900px);
     transition: transform 1s;
-    background-color: blue;
-
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
 }
+
+
+
 .mostrar{
+    overflow: auto;
     right:0px;
     transform: translateX(0px);
 }
@@ -30,13 +45,194 @@
 
 
 .nameProvincia{
+    font-family:'Evogria', sans-serif;
     position: absolute;
     bottom: 30px;
     left: 40px;
     font-size: 80px;
+    color: #fff;
+    background-color: black;
+    mix-blend-mode: multiply;
+    padding: 0px 20px;
+    border-radius: 10px;
 }
 .pepo{
     position: absolute;
     top:0px;
     left:0px;
+}
+
+.iniciativas{
+    padding: 20px;
+    background-color:aliceblue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 270px;
+    height: auto;
+    border-radius: 10px;
+    transform: translateX(-400px);
+    transition: transform 1s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.present{
+    transform: translateX(0px);
+}
+.iniciativas-title{
+    font-size: 20px;
+}
+.iniciativas-counter{
+    font-size: 100px;
+    font-weight: 600;
+}
+
+.ul-orgName{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    width: 100%;
+    height: auto;
+}
+.orgName{
+    text-align: start;
+    text-size-adjust: center;
+    word-wrap: break-word;
+    flex-grow: 1;
+    text-align: center;
+}
+.li-orgName{
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    gap: 2px;
+    cursor: pointer;
+}
+.li-orgName:hover{
+    background-color: rgba(158, 158, 158, 0.473);
+}
+.ul-orgName >:first-child{
+    font-weight: 700;
+}
+.orgName-name{
+    border-radius: 4px;
+    padding: 5px;
+    background-color: #6c778818;
+    text-align: center;
+}
+
+/*------------------CARD------------------------*/
+.card{
+    border:2px solid rgba(128, 128, 128, 0.466);
+    border-radius: 10px;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+.card-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card--title{
+    padding: 5px 0px;
+}
+.card--status{
+    background-color: #6C7788;
+    font-weight: 600;
+    padding: 5px 20px;
+    border-radius: 15px;
+    color: aliceblue;
+}
+
+.card-body{
+    display: flex;
+}
+.card--figure{
+    flex-grow: 7;
+    flex-basis: 400px;
+    height: 230px;
+    background-color: rgb(92, 92, 92);
+    border-radius: 5px;
+}
+.card--figure-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.card--description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    flex-basis: 180px;
+    padding: 10px;
+    
+}
+.card--description-text{
+    word-wrap: break-word;
+}
+.description-button{
+    padding: 8px;
+}
+.text-acordion{
+    transform: translateX(600px);
+    transition: transform 0.5s ;
+}
+.view-text-card{
+    transform: translateX(0px);
+    
+}
+.displayText{
+    max-height: 0;
+    transition: max-height 0.5s ;
+    overflow: hidden;
+}
+.viewText{
+    max-height: 500px;
+    /*transition: max-height 2s ;*/
+}
+
+/*--------------------CATEGORIAS--------------------------- */
+.categories{
+    height: 40px;
+}
+.cont--category{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    height: 40px;
+    border:2px solid rgba(128, 128, 128, 0.466);
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+.category{
+    position: relative;
+    width: 150px;
+    text-align: center;
+    z-index: 2;
+
+}
+.cat-color{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    background-color: #186cb1be;
+    transform: translateX(0px);
+    transition: transform 0.5s;
+    border-radius: 8px;
+    
+}
+.move-category{
+    transform: translateX(150px);
+    
 }

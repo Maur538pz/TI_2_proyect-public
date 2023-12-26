@@ -1,0 +1,83 @@
+[
+
+    {
+        "title":"arequipa",
+        "ecosistemas":[{
+            "title":"ecosistema 1 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":1,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"ecosistema 2 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":0,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"ecosistema 3 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":2,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        }],
+        "animales":[{
+            "title":"animal 1 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":1,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"animal 2 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":0,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"animal 3 arequipa",
+            "image":"https://img.freepik.com/vector-gratis/vector-ordenadores_23-2147493845.jpg",
+            "status":2,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        }]
+    },
+
+
+    
+    {
+        "title":"puno",
+        "ecosistemas":[{
+            "title":"ecosistema 1 puno",
+            "status":1,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"ecosistema 2 puno",
+            "status":0,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"ecosistema 3 puno",
+            "status":2,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        }],
+        "animales":[{
+            "title":"animal 1 puno",
+            "status":1,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"animal 2 puno",
+            "status":0,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        },{
+            "title":"animal 3 puno",
+            "status":2,
+            "description":"esta es una breve descripcion de nose que xd",
+            "content":"este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we este es una tetxo largo raaa tu mamam es una rata la csmr we we we we we "
+        }]
+    }
+
+]
