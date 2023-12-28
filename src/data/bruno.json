@@ -1,0 +1,255 @@
+[
+
+    {
+        "title":"piura",
+        "ecosistemas":[{
+            "title":"Desierto Costero",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Sechura_duna_gigante.jpg",
+            "status":2,
+            "description":"El desierto costero de Piura se caracteriza por su clima árido y dunas de arena, siendo un ecosistema de gran adaptación y resistencia. Es hogar de especies únicas de flora y fauna, como cactáceas y reptiles.",
+            "content":"El desierto costero de Piura alberga una variedad de especies adaptadas a las condiciones extremas, como cactáceas, reptiles y aves migratorias. Este ecosistema desempeña un papel crucial en la conservación de la biodiversidad y la regulación climática, siendo un testimonio de la resiliencia y la belleza del paisaje árido."
+        },{
+            "title":"Manglares y Estuarios",
+            "image":"https://manglaresdesanpedro.files.wordpress.com/2017/02/10155630_879086452165043_4376627581894128308_n.jpg",
+            "status":3,
+            "description":"Los manglares y estuarios de Piura son ecosistemas vitales en la costa, actuando como barreras naturales y refugio para una variedad de especies marinas y aves migratorias.",
+            "content":"Los manglares y estuarios de Piura son ecosistemas únicos que proporcionan hábitats críticos para peces, crustáceos, aves y otros organismos marinos. Además de su importancia biológica, estos ecosistemas desempeñan un papel fundamental en la protección contra la erosión costera, la filtración de agua y la captura de carbono, contribuyendo a la salud y la sostenibilidad de la costa."
+        },{
+            "title":"Bosques Secos y Algarrobales",
+            "image":"https://www.actualidadambiental.pe/wp-content/uploads/2015/02/actualidad_ambiental_algarrobo_1.jpg",
+            "status":3,
+            "description":"Los bosques secos y algarrobales de Piura son refugios de flora y fauna únicas, adaptadas a las condiciones de estacionalidad y escasez de agua.",
+            "content":"Los bosques secos y algarrobales de Piura son ecosistemas vitales que albergan una diversidad de especies endémicas y en peligro de extinción. Estos bosques desempeñan funciones cruciales en la conservación del suelo, la regulación hídrica y la protección de la biodiversidad terrestre, siendo un ejemplo de la interacción entre la naturaleza y las comunidades humanas en la región."
+        }],
+        "animales":[{
+            "title":"Cóndor Andino",
+            "image":"https://portal.andina.pe/EDPFotografia3/thumbnail/2018/10/30/000541637M.jpg",
+            "status":3,
+            "description":"El cóndor andino es una de las aves rapaces más grandes del mundo, conocida por su majestuosidad y su papel cultural en las culturas andinas.",
+            "content":"El cóndor andino, símbolo de libertad y poder en los Andes, habita en las áreas montañosas de Piura, desempeñando un papel crucial en el equilibrio ecológico y cultural de la región. Esta ave carroñera se alimenta principalmente de animales muertos, contribuyendo a la limpieza del ecosistema y siendo un indicador de la salud ambiental de las montañas."
+        },{
+            "title":"Tortuga Marina",
+            "image":"https://www.minam.gob.pe/wp-content/uploads/2016/02/600-pix-tortugas-marinas.jpg",
+            "status":3,
+            "description":"Las tortugas marinas son reptiles marinos que utilizan las playas de Piura para anidar y reproducirse, siendo especies en peligro de extinción debido a la pesca y la degradación del hábitat.",
+            "content":"Las tortugas marinas, como la tortuga verde y la tortuga carey, son visitantes icónicos de las playas de Piura, donde depositan sus huevos y desempeñan un papel vital en la biodiversidad marina. Estas especies enfrentan numerosas amenazas, incluida la contaminación, la pesca incidental y la destrucción de sus sitios de anidación, por lo que su conservación es esencial para proteger la riqueza natural y cultural de la región."
+        },{
+            "title":"Alpaca",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/2808322/standard_q.jpeg.jpeg",
+            "status":2,
+            "description":"La alpaca es un camélido sudamericano domesticado, apreciado por su lana suave y su papel en la economía y la cultura local.",
+            "content":"La alpaca, animal emblemático de los Andes, se encuentra en las regiones altas de Piura, donde es criada por las comunidades locales por su lana de alta calidad. Este camélido, adaptado a las condiciones extremas de las montañas, es un símbolo de la sostenibilidad y la tradición en la región, proporcionando recursos económicos y culturales para las comunidades andinas."
+        }]
+    },
+   
+    {
+        "title":"puno",
+        "ecosistemas":[{
+            "title":"Lago Titicaca",
+            "image":"https://www.tangol.com/blog/Fotos/puno-a-city-on-the-shore-of-lake-titicaca_0_201805031408340.JPG",
+            "status":2,
+            "description":"El Lago Titicaca es el lago navegable más alto del mundo y una fuente vital de biodiversidad y cultura en la región de Puno.",
+            "content":"El Lago Titicaca, con sus aguas cristalinas y misteriosas islas flotantes, es un ecosistema único que alberga una rica biodiversidad de especies acuáticas y terrestres, como truchas, aves migratorias y plantas acuáticas. Además, el lago es un centro cultural y espiritual para las comunidades locales, que mantienen tradiciones ancestrales y prácticas sostenibles de pesca y agricultura."
+        },{
+            "title":"Páramos y Altos Andes",
+            "image":"https://cdn0.ecologiaverde.com/es/posts/5/8/7/puna_que_es_caracteristicas_flora_y_fauna_2785_600.jpg",
+            "status":3,
+            "description":"Los páramos y altos Andes de Puno son ecosistemas de alta montaña, caracterizados por sus paisajes escarpados, lagunas glaciares y una flora y fauna adaptadas a las condiciones extremas.",
+            "content":"Estos ecosistemas son vitales para la regulación hídrica, la conservación del suelo y la biodiversidad, siendo áreas de gran importancia para la investigación científica y la conservación ambiental."
+        },{
+            "title":"Valles y Mesetas",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/9/98/Isla_Suasi_PUNO-PERU.jpg",
+            "status":2,
+            "description":"Los valles y mesetas de Puno son paisajes intermedios entre los altos Andes y las áreas más bajas, con una diversidad de ecosistemas y microclimas que permiten una variedad de actividades agrícolas y culturales.",
+            "content":"Los valles y mesetas de Puno son áreas productivas donde las comunidades locales practican la agricultura tradicional y la ganadería, aprovechando la fertilidad del suelo y la disponibilidad de agua. "
+        }],
+        "animales":[{
+            "title":"Vicuña",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/2051151/standard_Imagen%20078-b.jpg.jpg",
+            "status":2,
+            "description":"La vicuña es un camélido sudamericano silvestre, conocido por su lana fina y su adaptación a las condiciones extremas de los Andes.",
+            "content":"Esta especie ha sido protegida y su lana es altamente valorada por su suavidad y calidad, siendo un recurso sostenible y una fuente de ingresos para las comunidades locales que practican la esquila tradicional."
+        },{
+            "title":"Oso de Anteojos",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/1304517/standard_Oso%20de%20anteojos%20SERFOR.jpg",
+            "status":3,
+            "description":"El oso de anteojos es un mamífero emblemático de los Andes, reconocido por su apariencia distintiva y su papel en la ecología de los bosques montanos.",
+            "content":"Esta especie es importante para la dispersión de semillas y el equilibrio ecológico, siendo objeto de conservación y programas de educación ambiental para proteger su hábitat y garantizar su supervivencia."
+        },{
+            "title":"Trucha Andina",
+            "image":"https://st3.depositphotos.com/1007545/32532/i/450/depositphotos_325328246-stock-photo-autumn-portrait-of-rainbow-trout.jpg",
+            "status":2,
+            "description":"La trucha andina es una especie de pez nativo de los ríos y lagos de alta montaña, apreciada por su valor ecológico y gastronómico en la región de Puno.",
+            "content":"Esta especie desempeña un papel importante en la cadena alimentaria y la salud de los ecosistemas acuáticos, siendo gestionada bajo prácticas de manejo sostenible y conservación para garantizar su disponibilidad y biodiversidad en los ríos y lagos andinos."
+        }]
+    },
+
+    {
+        "title":"san_martin",
+        "ecosistemas":[{
+            "title":"Bosques Nubosos",
+            "image":"https://portal.andina.pe/EDPFotografia3/thumbnail/2019/02/12/000563599M.jpg",
+            "status":2,
+            "description":"Los bosques nubosos de San Martín son ecosistemas húmedos y montañosos, caracterizados por su alta biodiversidad, presencia de neblina constante y una vegetación exuberante.",
+            "content":"Estos ecosistemas son fundamentales para la regulación hídrica, la captura de carbono y la conservación de especies en peligro de extinción, siendo áreas prioritarias para la conservación y el ecoturismo sostenible en la región."
+        },{
+            "title":"Bosques Tropicales",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/3757880/standard_15.jpg.jpg",
+            "status":1,
+            "description":"Los bosques tropicales de San Martín son ecosistemas cálidos y húmedos, con una gran diversidad de árboles, plantas y animales adaptados a las condiciones tropicales.",
+            "content":"Estos ecosistemas proporcionan servicios ecosistémicos vitales, como la regulación del clima, la purificación del agua y la provisión de recursos naturales para las comunidades locales, siendo áreas de importancia para la conservación y el desarrollo sostenible en la región."
+        },{
+            "title":"Ríos y Humedales",
+            "image":"https://radiosanmartin.pe/wp-content/uploads/2021/02/humedales-del-Peru-800x445.jpg",
+            "status":1,
+            "description":"Los ríos y humedales de San Martín son ecosistemas acuáticos y ribereños, que incluyen ríos, lagunas, pantanos y estuarios, con una gran diversidad de especies acuáticas y terrestres.",
+            "content":"Estos ecosistemas son cruciales para la pesca, la agricultura, el turismo y la conservación, siendo áreas de interés para la gestión integrada de recursos hídricos y la conservación de la biodiversidad en la región."
+        }],
+        "animales":[{
+            "title":"Oso de Anteojos (Tremarctos ornatus)",
+            "image":"https://www.peru.travel/Contenido/Uploads/oso-andino-interior-1_637708492669784910.jpg",
+            "status":2,
+            "description":"El oso de anteojos es un mamífero emblemático de los Andes tropicales, conocido por su apariencia distintiva y su adaptación a los bosques montanos.",
+            "content":"Esta especie desempeña un papel crucial en la dispersión de semillas y la regeneración de los bosques, siendo objeto de conservación y programas de investigación para proteger su hábitat y garantizar su supervivencia en la región."
+        },{
+            "title":"Lapa Verde (Ara ambiguus)",
+            "image":"https://www.natuwa.com/wp-content/uploads/2018/06/ROV3823-768x510.jpg",
+            "status":2,
+            "description":"La lapa verde es una especie de ave psitácida, caracterizada por su plumaje verde brillante, tamaño grande y comportamiento social.",
+            "content":"Esta especie enfrenta amenazas como la deforestación y el comercio ilegal, siendo objeto de conservación y programas de educación ambiental para proteger su hábitat y promover su conservación en la región."
+        },{
+            "title":"Rana Dardo Venenoso (Ranitomeya spp.)",
+            "image":"https://animapedia.org/wp-content/uploads/2018/06/rana-dardo-venenosa-animapedia.jpg",
+            "status":1,
+            "description":"Las ranas dardo venenoso son anfibios pequeños y coloridos, conocidos por su toxicidad y su apariencia llamativa en los bosques tropicales.",
+            "content":"Estas especies son indicadoras de la salud del ecosistema y enfrentan amenazas como la deforestación, la contaminación y el cambio climático, siendo objeto de conservación y monitoreo para proteger su biodiversidad y promover la investigación científica en la región."
+        }]
+    },
+
+    {
+        "title":"tacna",
+        "ecosistemas":[{
+            "title":"Desierto Costero",
+            "image":"https://portal.andina.pe/EDPFotografia3/thumbnail/2023/10/17/001004365M.jpg",
+            "status":2,
+            "description":"Tacna cuenta con extensas áreas de desierto costero, caracterizadas por su clima árido, dunas de arena y una vegetación adaptada a las condiciones extremas.",
+            "content":"Este ecosistema desempeña un papel crucial en la conservación del suelo, la regulación climática y la biodiversidad, siendo un paisaje emblemático de la región y una fuente de recursos naturales para las comunidades locales."
+        },{
+            "title":"Páramos y Altos Andes",
+            "image":"https://peru21.pe/resizer/fM2k1AHPmZ40upx3gkC7AxS0K4k=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PLWDVIP2DFAL3L3DEBAIDT2NGE.jpg",
+            "status":1,
+            "description":"En las zonas más elevadas de Tacna, se encuentran páramos y altos Andes, ecosistemas de alta montaña con una vegetación y fauna adaptadas a las condiciones frías y extremas.",
+            "content":"Estos ecosistemas son cruciales para la regulación hídrica, la conservación de la biodiversidad y la provisión de servicios ecosistémicos, siendo áreas prioritarias para la conservación y el turismo sostenible en la región."
+        },{
+            "title":"Valles y Quebradas",
+            "image":"https://larepublica.cronosmedia.glr.pe/migration/images/JU4UFXT27NGD3HGI3MRKN4M4LE.jpg",
+            "status":1,
+            "description":"Tacna también cuenta con valles y quebradas, áreas fértiles y productivas que contrastan con los paisajes desérticos y montañosos de la región, siendo zonas de gran importancia agrícola y cultural.",
+            "content":"Estas áreas son fundamentales para la seguridad alimentaria, la economía local y la conservación de las tradiciones agrícolas, siendo un testimonio de la relación entre las personas y la tierra en la región."
+        }],
+        "animales":[{
+            "title":"Vicuña (Vicugna vicugna)",
+            "image":"https://portal.andina.pe/EDPFotografia3/thumbnail/2018/11/15/000544592M.jpg",
+            "status":2,
+            "description":"La vicuña es un camélido sudamericano silvestre, conocido por su lana fina y su adaptación a las altas montañas y páramos.",
+            "content":"Esta especie es valorada por su lana de alta calidad y su importancia ecológica en la conservación de los ecosistemas andinos, siendo objeto de programas de conservación y manejo sostenible para proteger su hábitat y garantizar su supervivencia en la región."
+        },{
+            "title": "Cóndor Andino (Vultur gryphus)",
+            "image": "https://1.bp.blogspot.com/-eiD-JgVV8fc/VVcKwOGakMI/AAAAAAAABpY/-MsG1guhSoE/w1200-h630-p-k-no-nu/12.jpg",
+            "status": 1,
+            "description": "El cóndor andino es una de las aves rapaces más grandes del mundo, reconocida por su envergadura impresionante y su papel en el folklore andino.",
+            "content": "Esta especie enfrenta amenazas como la pérdida de hábitat y la caza, siendo objeto de conservación y programas de educación ambiental para proteger su hábitat y promover su conservación en la región."
+        },{
+            "title": "Zorro Andino (Lycalopex culpaeus)",
+            "image": "https://www.expreso.com.pe/wp-content/uploads/2023/04/ZORRO-ANDINO.jpg",
+            "status": 2,
+            "description": "El zorro andino es un mamífero carnívoro nativo de los Andes, conocido por su pelaje grisáceo y su adaptación a los ecosistemas montañosos.",
+            "content": "Esta especie es un indicador de la salud del ecosistema y enfrenta amenazas como la fragmentación del hábitat y la caza, siendo objeto de conservación y monitoreo para proteger su biodiversidad y promover la investigación científica en la región."
+          }]
+    },
+
+    {
+        "title":"tumbes",
+        "ecosistemas":[{
+            "title":"Manglares y Estuarios",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/4797762/standard_aves%20los%20manglares%20de%20tumbes%202.jpg",
+            "status":3,
+            "description":"Tumbes cuenta con extensas áreas de manglares y estuarios, ecosistemas costeros y ribereños que son vitales para la biodiversidad marina y terrestre, y proporcionan importantes servicios ecosistémicos como la protección contra la erosión costera, la filtración de contaminantes y la captura de carbono.",
+            "content":"Estos ecosistemas son cruciales para la pesca, el turismo y la conservación de especies en peligro de extinción, siendo áreas prioritarias para la gestión integrada de recursos costeros y la conservación de la biodiversidad en la región."
+        },{
+            "title":"Bosques Secos y Algarrobales",
+            "image":"https://cdn.www.gob.pe/uploads/document/file/1698165/standard_algarrobo1.jpg.jpg",
+            "status":3,
+            "description":"Tumbes también cuenta con bosques secos y algarrobales, ecosistemas terrestres caracterizados por su adaptación a las condiciones áridas y estacionales, y su importancia ecológica, económica y cultural para las comunidades locales.",
+            "content":"Estos ecosistemas son fundamentales para la regulación del clima, la conservación del suelo y la provisión de recursos naturales para las comunidades locales, siendo áreas de gran importancia para la investigación científica y la conservación ambiental."
+        },{
+            "title":"Ríos y Humedales",
+            "image":"https://portal.andina.pe/EDPFotografia3/thumbnail/2020/01/22/000646998M.jpg",
+            "status":2,
+            "description":" Tumbes cuenta con ríos y humedales, ecosistemas acuáticos y ribereños que son vitales para la biodiversidad, la regulación hídrica y la provisión de servicios ecosistémicos esenciales para las comunidades locales y el bienestar humano.",
+            "content":"Estos ecosistemas son cruciales para la pesca, la agricultura, el turismo y la conservación de especies en peligro de extinción, siendo áreas prioritarias para la gestión integrada de recursos hídricos y la conservación de la biodiversidad en la región."
+        }],
+        "animales":[{
+            "title":"Cocodrilo Americano (Crocodylus acutus)",
+            "image":"https://www.oannes.org.pe/upload/WhatsAppImage2021-09-16at08.34.28.jpeg",
+            "status":2,
+            "description":"El cocodrilo americano es una especie de cocodrilo que habita en los ríos, estuarios y manglares de América Central y del Sur, incluida la región de Tumbes.",
+            "content":"El cocodrilo americano juega un papel importante en la ecología de los ecosistemas acuáticos, ayudando a regular las poblaciones de presas y contribuyendo a la biodiversidad local."
+        },{
+            "title": "Cangrejo Azul (Callinectes sapidus)",
+            "image": "https://4.bp.blogspot.com/-xsZj62UOpw8/Ur9zCWVJuNI/AAAAAAAAAc8/t1VRBJbE7FQ/s1600/Sin+t%C3%ADtulo.png",
+            "status": 3,
+            "description": "El cangrejo azul es una especie de cangrejo decápodo que habita en los manglares y estuarios de la región costera, incluida la región de Tumbes.",
+            "content": "El cangrejo azul es una especie de importancia económica y cultural para las comunidades locales, siendo objeto de pesca y gastronomía en la región."
+        },{
+            "title": "Nutria Neotropical (Lontra longicaudis)",
+            "image": "https://1.bp.blogspot.com/-_iDARvz85DY/Tqg0H2R7SkI/AAAAAAAAAEI/sVWpdmU9R_I/s1600/nutria%2Bde%2Brio.jpg",
+            "status": 2,
+            "description": "La nutria neotropical es una especie de mamífero semiacuático que habita en los ríos, lagos y humedales de América del Sur, incluida la región de Tumbes.",
+            "content": "La nutria neotropical es una especie emblemática y carismática, siendo objeto de conservación y educación ambiental para proteger su hábitat y promover su conservación en la región."
+          }]
+    },
+
+    {
+        "title":"ucayali",
+        "ecosistemas":[{
+            "title":"Bosques Amazónicos y Selvas Húmedas",
+            "image":"https://bilateralnoticias.com/wp-content/uploads/2020/06/amazonia-peruana-850x560.jpg",
+            "status":3,
+            "description":"Ucayali cuenta con vastas extensiones de bosques amazónicos y selvas húmedas, ecosistemas caracterizados por su alta biodiversidad, densidad vegetal y complejidad ecológica.",
+            "content":"Estos ecosistemas son cruciales para la regulación del clima, la conservación de la biodiversidad y la provisión de servicios ecosistémicos, siendo áreas prioritarias para la conservación y el manejo sostenible en la región."
+        },{
+            "title":"Ríos, Lagos y Humedales",
+            "image":"https://aguasamazonicas.org/wp-content/uploads/2023/07/Ucayali-5-2.jpg",
+            "status":2,
+            "description":"Ucayali también cuenta con una red de ríos, lagos y humedales, ecosistemas acuáticos y ribereños que son vitales para la biodiversidad, la regulación hídrica y la provisión de recursos naturales para las comunidades locales.",
+            "content":"Estos ecosistemas son cruciales para la pesca, la agricultura, el turismo y la conservación de especies en peligro de extinción, siendo áreas prioritarias para la gestión integrada de recursos hídricos y la conservación de la biodiversidad en la región."
+        },{
+            "title":"Sabanas y Pastizales",
+            "image":"https://imgs.mongabay.com/wp-content/uploads/sites/20/2018/04/20101352/1-ce.jpg",
+            "status":2,
+            "description":"Ucayali también cuenta con áreas de sabanas y pastizales, ecosistemas terrestres caracterizados por su vegetación abierta y su importancia ecológica y socioeconómica para las comunidades locales.",
+            "content":"Estos ecosistemas son fundamentales para la ganadería, la agricultura y la conservación de especies en peligro de extinción, siendo áreas de gran importancia para la investigación científica y la gestión sostenible en la región."
+        }],
+        "animales":[{
+            "title":"Delfín Rosado (Inia geoffrensis)",
+            "image":"https://portal.andina.pe/edpfotografia2/thumbnail/2010/04/23/000124389M.jpg",
+            "status":2,
+            "description":"El delfín rosado es una especie de delfín de agua dulce que habita en los ríos y lagos de la cuenca amazónica, incluida la región de Ucayali.",
+            "content":"Este mamífero acuático es conocido por su coloración rosada y su adaptación a los ecosistemas de aguas dulces. El delfín rosado juega un papel importante en la ecología de los ríos amazónicos, ayudando a mantener el equilibrio de las poblaciones de peces y otros organismos acuáticos."
+        },{
+            "title": "Anaconda Verde (Eunectes murinus)",
+            "image": "https://3.bp.blogspot.com/-3iQLFbYP93g/XIs6sjD2x3I/AAAAAAAADrA/5nCCcQvTrts_Va0_ps0EziZ_QzRy9c9KwCLcBGAs/s1600/anaconda1.jpg",
+            "status": 2,
+            "description": "La anaconda verde es una especie de serpiente acuática que habita en los ríos, lagos y humedales de la región amazónica, incluida la región de Ucayali.",
+            "content": "Este reptil gigante es conocido por ser una de las serpientes más grandes del mundo, alcanzando longitudes de hasta 9 metros o más. La anaconda verde es un depredador tope en su hábitat, alimentándose de una variedad de presas acuáticas y terrestres."
+        },{
+            "title": "Jaguar (Panthera onca)",
+            "image": "https://www.ytuqueplanes.com/imagenes/fotos/banners/meta-Dia-del-Jaguar.jpg",
+            "status": 3,
+            "description": "El jaguar es una especie de felino que habita en los bosques, selvas y sabanas de América Central y del Sur, incluida la región de Ucayali.",
+            "content": "Este carnívoro es conocido por ser el mayor felino de América y un depredador tope en su hábitat. El jaguar desempeña un papel importante en la regulación de las poblaciones de presas y la salud de los ecosistemas donde habita."
+          }]
+    }
+
+]
