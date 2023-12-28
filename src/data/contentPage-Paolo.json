@@ -1,0 +1,398 @@
+[
+    {
+        "title":"lambayeque",
+        "ecosistemas":[{
+            "title": "Playa de Pimentel",
+            "image": "https://blog.redbus.pe/wp-content/uploads/2018/04/shutterstock_361219148.jpg",
+            "status": 1,
+            "description": "Costa marina en Lambayeque, Perú.",
+            "content": "La playa de Pimentel en Lambayeque es parte del ecosistema marino y costero de la región. Con su extensa línea costera, esta área contribuye a la biodiversidad marina y ofrece un paisaje impresionante. Sus playas son importantes para la reproducción de especies marinas y proporcionan hábitats únicos para diversas formas de vida."
+        },{
+            "title": "Río La Leche",
+            "image": "https://www.rcc.gob.pe/2020/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-28-at-4.37.50-PM.jpeg",
+            "status": 1,
+            "description": "Ecosistema fluvial en Lambayeque, Perú.",
+            "content": "El río La Leche atraviesa Lambayeque, creando un ecosistema fluvial vital para la biodiversidad local. Las áreas ribereñas son hábitats importantes para diversas especies de aves y animales acuáticos. La gestión sostenible de este ecosistema es esencial para garantizar la calidad del agua y la preservación de su rica diversidad biológica."
+        },{
+            "title": "Reserva Nacional de Bosques de Pomac",
+            "image": "https://elcomercio.pe/resizer/KXv58QwyDjAsmRTMMgCcFUaYYeo=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ITN4MYKVHZEPVOUB4H2DAKFBKM.jpg",
+            "status": 1,
+            "description": "Desierto costero con bosques de algarrobos en Lambayeque, Perú.",
+            "content": "La Reserva Nacional de Bosques de Pomac en Lambayeque destaca por ser un ecosistema de desierto costero que alberga bosques de algarrobos. Esta área es hogar de una flora y fauna únicas adaptadas a condiciones áridas. La conservación de estos bosques es crucial para mantener el equilibrio ecológico y preservar especies amenazadas."
+        }],
+
+        "animales": [
+            {
+              "title": "Cóndor de la Sierra",
+              "image": "https://www.anderratravel.com/blog/imagenes/146.jpg",
+              "status": 3,
+              "description": "El cóndor de la sierra es una especie emblemática de la región andina de Lambayeque. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus áreas de anidación y combatir la caza ilegal.",
+              "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
+            },
+            {
+              "title": "Tigrillo de Lambayeque",
+              "image": "https://1.bp.blogspot.com/-k5lrPFXAZ1k/W8YHZ7sBVfI/AAAAAAAAiYU/HszcEzuikSsUmd6zPQ8P4rgPU6R8d2R7QCLcBGAs/s1600/12875480_f520.jpg",
+              "status": 4,
+              "description": "El tigrillo de Lambayeque, un pequeño felino nativo de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
+              "content": "Se están llevando a cabo estudios para comprender mejor la ecología del tigrillo de Lambayeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
+            },
+            {
+              "title": "Pato de la Puna",
+              "image": "https://static.inaturalist.org/photos/35529278/large.jpg",
+              "status": 3,
+              "description": "El pato de la puna, especie de ave acuática que habita en las altitudes de Lambayeque, enfrenta amenazas como la pérdida de humedales y la contaminación del agua. La conservación incluye la protección de sus hábitats y la promoción de prácticas agrícolas sostenibles.",
+              "content": "Programas de monitoreo de humedales, esfuerzos de restauración de hábitats y regulaciones para la gestión sostenible del agua son parte de las estrategias de conservación para el pato de la puna."
+            }
+          ]
+          
+    },
+
+
+    
+    {
+        "title":"lima",
+        "ecosistemas": [{
+            "title": "Desierto Costero de Lima",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg/300px-Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg",
+            "status": 1,
+            "description": "Desierto costero que abarca gran parte de la costa de Lima, Perú.",
+            "content": "El desierto costero de Lima es un ecosistema árido adaptado a condiciones secas. A pesar de las apariencias, este entorno alberga una sorprendente variedad de plantas y animales adaptados a la vida en condiciones extremas, demostrando la asombrosa capacidad de la naturaleza para prosperar en diversos hábitats."
+        },{
+            "title": "Lomas de Lima",
+            "image": "https://www.machupicchuterra.com/wp-content/uploads/lomas-lachay-full-i.jpg",
+            "status": 1,
+            "description": "Ecosistema de lomas en la región costera de Lima, Perú.",
+            "content": "Las lomas de Lima son áreas únicas donde la humedad atmosférica permite el crecimiento de vegetación en un entorno árido. Este ecosistema es particularmente importante para la conservación de especies adaptadas a condiciones específicas, contribuyendo a la diversidad biológica de la región."
+        },{
+            "title": "Islas Palomino en el Pacífico",
+            "image": "https://cdn.getyourguide.com/img/tour/5d519f10e7daa.jpeg/145.jpg",
+            "status": 1,
+            "description": "Hábitat marino de aves y lobos marinos frente a la costa de Lima, Perú.",
+            "content": "Las Islas Palomino, ubicadas en el Océano Pacífico frente a la costa de Lima, son un ecosistema marino vital. Sirven como hábitat para diversas aves marinas y lobos marinos, proporcionando un ejemplo de la riqueza de la vida marina que coexiste con la presencia humana en la región."
+        }],
+        "animales": [
+            {
+              "title": "Oso de Anteojos",
+              "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
+              "status": "4",
+              "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
+              "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
+            },
+            {
+              "title": "Cóndor Andino",
+              "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
+              "status": "3",
+              "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
+              "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
+            },
+            {
+              "titly eso ": "Huerequeque",
+              "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
+              "status": "4",
+              "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
+              "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
+            }
+          ]
+          
+    },
+
+    {
+      "title":"provincia_de_lima",
+      "ecosistemas": [{
+          "title": "Desierto Costero de Lima",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg/300px-Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg",
+          "status": 1,
+          "description": "Desierto costero que abarca gran parte de la costa de Lima, Perú.",
+          "content": "El desierto costero de Lima es un ecosistema árido adaptado a condiciones secas. A pesar de las apariencias, este entorno alberga una sorprendente variedad de plantas y animales adaptados a la vida en condiciones extremas, demostrando la asombrosa capacidad de la naturaleza para prosperar en diversos hábitats."
+      },{
+          "title": "Lomas de Lima",
+          "image": "https://www.machupicchuterra.com/wp-content/uploads/lomas-lachay-full-i.jpg",
+          "status": 1,
+          "description": "Ecosistema de lomas en la región costera de Lima, Perú.",
+          "content": "Las lomas de Lima son áreas únicas donde la humedad atmosférica permite el crecimiento de vegetación en un entorno árido. Este ecosistema es particularmente importante para la conservación de especies adaptadas a condiciones específicas, contribuyendo a la diversidad biológica de la región."
+      },{
+          "title": "Islas Palomino en el Pacífico",
+          "image": "https://cdn.getyourguide.com/img/tour/5d519f10e7daa.jpeg/145.jpg",
+          "status": 1,
+          "description": "Hábitat marino de aves y lobos marinos frente a la costa de Lima, Perú.",
+          "content": "Las Islas Palomino, ubicadas en el Océano Pacífico frente a la costa de Lima, son un ecosistema marino vital. Sirven como hábitat para diversas aves marinas y lobos marinos, proporcionando un ejemplo de la riqueza de la vida marina que coexiste con la presencia humana en la región."
+      }],
+      "animales": [
+          {
+            "title": "Oso de Anteojos",
+            "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
+            "status": "4",
+            "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
+            "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
+          },
+          {
+            "title": "Cóndor Andino",
+            "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
+            "status": "3",
+            "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
+            "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
+          },
+          {
+            "titly eso ": "Huerequeque",
+            "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
+            "status": "4",
+            "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
+            "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
+          }
+        ]
+        
+  },
+
+
+  {
+    "title":"callao",
+    "ecosistemas": [{
+        "title": "Desierto Costero de Lima",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg/300px-Vegetaci%C3%B3_del_desert_a_la_prov%C3%ADncia_de_Chiclayo.jpg",
+        "status": 1,
+        "description": "Desierto costero que abarca gran parte de la costa de Lima, Perú.",
+        "content": "El desierto costero de Lima es un ecosistema árido adaptado a condiciones secas. A pesar de las apariencias, este entorno alberga una sorprendente variedad de plantas y animales adaptados a la vida en condiciones extremas, demostrando la asombrosa capacidad de la naturaleza para prosperar en diversos hábitats."
+    },{
+        "title": "Lomas de Lima",
+        "image": "https://www.machupicchuterra.com/wp-content/uploads/lomas-lachay-full-i.jpg",
+        "status": 1,
+        "description": "Ecosistema de lomas en la región costera de Lima, Perú.",
+        "content": "Las lomas de Lima son áreas únicas donde la humedad atmosférica permite el crecimiento de vegetación en un entorno árido. Este ecosistema es particularmente importante para la conservación de especies adaptadas a condiciones específicas, contribuyendo a la diversidad biológica de la región."
+    },{
+        "title": "Islas Palomino en el Pacífico",
+        "image": "https://cdn.getyourguide.com/img/tour/5d519f10e7daa.jpeg/145.jpg",
+        "status": 1,
+        "description": "Hábitat marino de aves y lobos marinos frente a la costa de Lima, Perú.",
+        "content": "Las Islas Palomino, ubicadas en el Océano Pacífico frente a la costa de Lima, son un ecosistema marino vital. Sirven como hábitat para diversas aves marinas y lobos marinos, proporcionando un ejemplo de la riqueza de la vida marina que coexiste con la presencia humana en la región."
+    }],
+    "animales": [
+        {
+          "title": "Oso de Anteojos",
+          "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
+          "status": "4",
+          "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
+          "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
+        },
+        {
+          "title": "Cóndor Andino",
+          "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
+          "status": "3",
+          "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
+          "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
+        },
+        {
+          "titly eso ": "Huerequeque",
+          "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
+          "status": "4",
+          "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
+          "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
+        }
+      ]
+      
+},
+
+    {
+        "title":"loreto",
+        "ecosistemas": [{
+            "title": "Selva Baja en la Reserva Nacional Pacaya Samiria",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Reserva_Pacaya_Samiria-%22La_Selva_de_los_Espejos%22.jpg/423px-Reserva_Pacaya_Samiria-%22La_Selva_de_los_Espejos%22.jpg",
+            "status": 1,
+            "description": "Diversidad biológica en la Reserva Nacional Pacaya Samiria, Loreto, Perú.",
+            "content": "La Reserva Nacional Pacaya Samiria en Loreto resguarda extensas áreas de selva baja, un ecosistema vibrante con una inmensa variedad de especies. Desde majestuosos árboles hasta fascinantes criaturas, este ecosistema contribuye significativamente a la biodiversidad global y ofrece a los visitantes una experiencia única en contacto con la naturaleza."
+        }
+        ,{
+            "title": "Aguajales y Humedales en la Cuenca del Río Itaya",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Iquitos_amaz%C3%B3nico.jpg/1200px-Iquitos_amaz%C3%B3nico.jpg",
+            "status": 1,
+            "description": "Ecosistema acuático en la Cuenca del Río Itaya, Loreto, Perú.",
+            "content": "La Cuenca del Río Itaya en Loreto presenta una rica red de aguajales y humedales que sirven como hábitats vitales para diversas especies acuáticas. Estos ecosistemas desempeñan un papel crucial en la conservación del agua y brindan refugio a una amplia gama de aves, peces y plantas adaptadas a entornos acuáticos."
+        }
+        ,{
+            "title": "Montañas y Colinas en la Cordillera del Cóndor",
+            "image": "https://proactivo.com.pe/wp-content/uploads/2015/02/cordillera-condor.jpg",
+            "status": 1,
+            "description": "Ecosistema de montaña en la Cordillera del Cóndor, Loreto, Perú.",
+            "content": "La Cordillera del Cóndor en Loreto exhibe impresionantes ecosistemas de montaña y colinas, hogar de especies adaptadas a condiciones más frescas y altitudes elevadas. Estos paisajes ofrecen vistas panorámicas, así como la oportunidad de estudiar especies únicas que se han adaptado a las condiciones específicas de las regiones montañosas."
+        }
+        ],
+        "animales": [
+            {
+              "title": "Delfín Rosado",
+              "image": "https://peru.info/archivos/publicacion/170-imagen-151611372018.jpg",
+              "status": "En peligro",
+              "description": "El delfín rosado, habitante de los ríos amazónicos de Loreto, se encuentra en peligro debido a la pérdida de hábitat y la contaminación del agua. La conservación de esta especie incluye la protección de sus zonas de reproducción y esfuerzos para reducir la contaminación.",
+              "content": "Proyectos de investigación y monitoreo se llevan a cabo para comprender mejor las amenazas que enfrenta el delfín rosado. También se implementan programas de educación ambiental para sensibilizar a las comunidades locales sobre la importancia de la conservación fluvial."
+            },
+            {
+              "title": "Tucán Pico Iris",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Keel-billed_Toucan_%2816201157519%29.jpg",
+              "status": "En peligro crítico",
+              "description": "El tucán pico iris, especie colorida y distintiva de la región amazónica, enfrenta la pérdida de su hábitat debido a la deforestación. La caza ilegal también representa una amenaza significativa para esta especie.",
+              "content": "Iniciativas de reforestación y la creación de áreas protegidas son esenciales para preservar el hábitat del tucán pico iris. Además, se están implementando medidas para combatir la caza furtiva y promover prácticas sostenibles de uso del suelo."
+            },
+            {
+              "title": "Jaguar",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.JPG/1200px-Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.JPG",
+              "status": "En peligro",
+              "description": "El jaguar, felino majestuoso de la selva amazónica, enfrenta amenazas como la caza ilegal y la fragmentación del hábitat. La conservación de esta especie incluye la creación de corredores biológicos y la aplicación de leyes contra la caza furtiva.",
+              "content": "Se están llevando a cabo investigaciones para entender mejor la ecología del jaguar en Loreto. Además, se están implementando medidas para fortalecer la protección de las áreas naturales y promover la coexistencia armoniosa entre las comunidades locales y la vida silvestre."
+            }
+          ]
+          
+          
+    },
+    
+    
+    {
+        "title":"madre_de_dios",
+        
+        "ecosistemas": [
+            {
+              "title": "Bosque Tropical Húmedo de Madre de Dios",
+              "image": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/12/28/000552683W.jpg",
+              "status": 1,
+              "description": "Biodiversidad en el bosque tropical húmedo de Madre de Dios, Perú.",
+              "content": "La mayor parte de Madre de Dios está cubierta por bosques tropicales húmedos, caracterizados por su excepcional biodiversidad. Este ecosistema es esencial para la conservación de numerosas especies endémicas y ofrece un hábitat único en la cuenca del río Amazonas."
+            },
+            {
+              "title": "Ríos y Humedales de Madre de Dios",
+              "image": "https://cdn.www.gob.pe/uploads/document/file/1684152/standard_1..JPG.JPG",
+              "status": 1,
+              "description": "Sistemas fluviales y humedales en la región de Madre de Dios, Perú.",
+              "content": "Los ríos como el Madre de Dios, Tambopata y Manu, junto con sus humedales asociados, desempeñan un papel crucial en la vida silvestre. Estos cuerpos de agua proporcionan hábitats esenciales para peces, aves y otros organismos acuáticos, contribuyendo a la biodiversidad de la región."
+            },
+            {
+              "title": "Reserva Nacional del Manu",
+              "image": "https://elperuano.pe/fotografia/thumbnail/2023/05/28/000250044M.jpg",
+              "status": 1,
+              "description": "Diversidad biológica en la Reserva Nacional del Manu, Madre de Dios, Perú.",
+              "content": "La Reserva Nacional del Manu es una de las áreas protegidas más importantes de Madre de Dios. Alberga una variedad de ecosistemas, desde bosques tropicales hasta montañas, y es hogar de numerosas especies en peligro de extinción. La conservación de esta reserva es crucial para preservar la riqueza biológica de la región."
+            }
+          ]
+          ,
+        "animales": [
+            {
+              "title": "Jaguar (Panthera onca)",
+              "image": "https://img.freepik.com/fotos-premium/jaguar-panthera-onca-su-entorno-natural_410516-47564.jpg",
+              "status": "En peligro crítico",
+              "description": "El jaguar es el felino más grande de América y se encuentra en peligro crítico de extinción en la región de Madre de Dios debido a la pérdida de hábitat y la caza furtiva. Su preservación es crucial para mantener el equilibrio ecológico en la selva.",
+              "content": "Se están implementando medidas de conservación, como la creación de reservas y programas de monitoreo, para proteger y preservar la población de jaguares en la región."
+            },
+            {
+              "title": "Ara macao (Guacamayo rojo)",
+              "image": "https://www.ngenespanol.com/wp-content/uploads/2023/01/guacamaya-roja-el-ave-que-oestenta-sus-colores-en-america-latina.jpg",
+              "status": "En peligro",
+              "description": "El ara macao, conocido como guacamayo rojo, enfrenta amenazas debido a la deforestación y el tráfico ilegal de mascotas en Madre de Dios. Este colorido loro desempeña un papel vital en la dispersión de semillas y la diversidad biológica.",
+              "content": "Los esfuerzos de conservación incluyen la protección de su hábitat y la aplicación de leyes para combatir el comercio ilegal de fauna silvestre."
+            },
+            {
+              "title": "Oso hormiguero gigante (Myrmecophaga tridactyla)",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
+              "status": "Vulnerable",
+              "description": "El oso hormiguero gigante se enfrenta a amenazas en Madre de Dios debido a la degradación del bosque y la caza. Este mamífero insectívoro juega un papel crucial en el control de poblaciones de insectos.",
+              "content": "Los programas de conservación se centran en la protección de sus hábitats naturales y la concientización sobre la importancia de preservar esta especie única."
+            }
+          ]    
+    },
+    
+    
+    {
+      "title":"Moquegua",
+      
+      "ecosistemas": [
+          {
+            "title": "Ecosistema Marino y Costero en Moquegua",
+            "image": "https://cdn.www.gob.pe/uploads/document/file/1793462/standard_49611176871_5058da7382_c.jpg.jpg",
+            "status": 1,
+            "description": "Diversidad marina en la costa de Moquegua, Perú.",
+            "content": "La extensa línea costera de Moquegua da lugar a un ecosistema marino y costero con una rica biodiversidad marina. Este ecosistema es crucial para la sostenibilidad de la pesca y proporciona hábitats únicos para diversas especies marinas."
+          },
+          {
+            "title": "Valle Interandino en Moquegua",
+            "image": "https://i.pinimg.com/originals/af/18/26/af1826fd2cfd517b7cf14873f6988379.jpg",
+            "status": 1,
+            "description": "Agricultura y vida en los valles interandinos de Moquegua, Perú.",
+            "content": "Los valles interandinos de Moquegua sustentan un ecosistema diverso donde la agricultura prospera gracias a los ríos y arroyos que descienden de las montañas. Estos valles son vitales para las comunidades locales y la producción de alimentos."
+          },
+          {
+            "title": "Bosque Montano en Moquegua",
+            "image": "https://portal.andina.pe/EDPFotografia3/thumbnail/2016/07/30/000368116M.jpg",
+            "status": 1,
+            "description": "Vegetación y biodiversidad en los bosques montanos de Moquegua, Perú.",
+            "content": "En las partes más altas de las montañas de Moquegua, se encuentran bosques montanos que albergan una diversidad única de flora y fauna adaptada a climas más frescos y húmedos. Estos ecosistemas desempeñan un papel crucial en la conservación de la biodiversidad de montaña."
+          }
+        ],
+        "animales": [
+          {
+            "title": "Vicuña",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQs590NkGWg_zLkrOvbvr1iE6HvP-3snph2kE4Nz7DoNY8YvmZCzuaSyRyAbtc9sY9bTQ&usqp=CAU",
+            "status": "1",
+            "description": "La vicuña es un camélido sudamericano que habita en las zonas de montaña de Moquegua. Esta especie ha sido emblemática en la región andina y se encuentra adaptada a altitudes elevadas.",
+            "content": "Los esfuerzos de conservación se centran en la protección de los hábitats de vicuñas y la promoción de prácticas sostenibles para garantizar su supervivencia."
+          },
+          {
+            "title": "Zorro Andino",
+            "image": "https://www.tierra-inca.com/album/photos/004/00412.jpg",
+            "status": "2",
+            "description": "El zorro andino es un mamífero que puede adaptarse a diversas altitudes y hábitats en Moquegua. Su presencia contribuye a la biodiversidad de la región.",
+            "content": "La conservación del zorro andino incluye la preservación de áreas naturales y la concientización sobre la importancia de su papel en el equilibrio ecológico."
+          },
+          {
+            "title": "Cóndor de los Andes",
+            "image": "https://peru.info/archivos/publicacion/136-imagen-1457192582021.jpg",
+            "status": "3",
+            "description": "El cóndor de los Andes, majestuoso ave rapaz, habita en las regiones montañosas de Moquegua. Afronta amenazas como la pérdida de hábitat y la intoxicación por plomo.",
+            "content": "Los programas de conservación del cóndor incluyen la protección de sus áreas de anidación, el monitoreo de su población y esfuerzos para abordar los riesgos asociados con la ingestión de plomo."
+          }
+        ]
+    },
+    
+    
+    {
+        "title":"Pasco",
+        
+        "ecosistemas": [{
+            "title": "Parque Nacional Yanachaga",
+            "image": "https://www.venselvacentral.pe/3167-large_default/trekking-en-el-parque-nacional-yanachaga-chemillen.jpg",
+            "status": 1,
+            "description": "Cuenta con una superficie de 122 mil hectáreas y se encuentra ubicado sobre el macizo de Yanachaga.",
+            "content": "El Parque alberga numerosas especies de flora (orquídeas, helechos, bromeliáceas, cañas, árboles y palmeras); gran cantidad de animales: alrededor de 59 especies de mamíferos, 427 de aves, 16 especies de reptiles y 31 de peces."
+        },{
+            "title": "Santuario Nacional de Huayllay",
+            "image": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2017/08/07/000440961W.jpg",
+            "status": 1,
+            "description": "Ecosistema de lomas en la región costera de Lima, Perú.",
+            "content": "El Santuario Nacional de Huayllay, situado en Pasco, Perú, destaca por su asombrosa colección de formaciones rocosas conocidas como Bosque de Piedras de Huayllay. Este lugar natural protegido abarca aproximadamente 6,815 hectáreas y ofrece una variedad de paisajes únicos, desde afloramientos rocosos hasta extensos prados. "
+        },{
+            "title": "Bosque de Carpish",
+            "image": "https://www.actualidadambiental.pe/acr/recursos/videos/carpish.jpg",
+            "status": 1,
+            "description": "El Bosque de Carpish en Perú es un refugio crucial para especies endémicas en peligro de extinción.",
+            "content": "El Bosque de Carpish, situado en la región central de los Andes peruanos, se erige como un santuario vital para la conservación de la biodiversidad. Este ecosistema alberga numerosas especies endémicas en peligro de extinción, como el oso de anteojos y el cóndor andino. "
+        }],
+        "animales": [
+            {
+              "title": "Boa constrictora",
+              "image": "https://www.zooplus.es/magazine/wp-content/uploads/2021/10/Boa-constrictor-1.jpeg",
+              "status": "4",
+              "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
+              "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
+            },
+            {
+              "title": "Sapo andino",
+              "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/52130571/large.jpg",
+              "status": "3",
+              "description": "El sapo andino, Rhinella spinulosa, habita en zonas altas de los Andes, siendo común en montañas.",
+              "content": "El sapo andino, científicamente conocido como Rhinella spinulosa, es una especie anfibia que se encuentra principalmente en áreas montañosas de los Andes sudamericanos, a altitudes elevadas que pueden superar los 3000 metros sobre el nivel del mar."
+            },
+            {
+              "titly eso ": "Rana marsupial peruana",
+              "image": "https://cdn.www.gob.pe/uploads/document/file/1793875/standard_WhatsApp%20Image%202021-04-10%20at%2009.33.43.jpeg.jpeg",
+              "status": "4",
+              "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
+              "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
+            }
+          ]    
+    }
+
+]
