@@ -439,7 +439,7 @@
         "animales":[{
             "title":"Ardilla Andina",
             "image":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/35XKONJMT5FQ7P4HJGEJXW7OUE.jpg",
-            "status":0,
+            "status":1,
             "description":"Ágil roedor de montaña con pelaje denso y cola larga en hábitats boscosos altos.",
             "content":"En los bosques montañosos de Ayacucho, la ardilla andina, con su pelaje espeso y cola larga, se desplaza ágilmente entre los árboles. Su adaptación a altitudes elevadas la convierte en un habitante esencial de estos ecosistemas, contribuyendo a la dispersión de semillas y siendo parte integral del paisaje montañoso."
         },{
@@ -573,21 +573,21 @@
             {
               "title": "Oso de Anteojos",
               "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
-              "status": "4",
+              "status": 4,
               "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
               "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
             },
             {
               "title": "Cóndor Andino",
               "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
-              "status": "3",
+              "status": 3,
               "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
               "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
             },
             {
               "titly eso ": "Huerequeque",
               "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
-              "status": "4",
+              "status": 4,
               "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
               "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
             }
@@ -620,21 +620,21 @@
           {
             "title": "Oso de Anteojos",
             "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
-            "status": "4",
+            "status": 4,
             "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
             "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
           },
           {
             "title": "Cóndor Andino",
             "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
-            "status": "3",
+            "status": 3,
             "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
             "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
           },
           {
             "titly eso ": "Huerequeque",
             "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
-            "status": "4",
+            "status": 4,
             "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
             "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
           }
@@ -668,21 +668,21 @@
         {
           "title": "Oso de Anteojos",
           "image": "https://cdn.www.gob.pe/uploads/document/file/2863014/standard_67f5bd3f-f55b-48a0-9f8d-aa3ea816678b.jpg.jpg",
-          "status": "4",
+          "status": 4,
           "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
           "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
         },
         {
           "title": "Cóndor Andino",
           "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/vulturgryphusheadlinnaeus1758.jpg?w=1600&h=900",
-          "status": "3",
+          "status": 3,
           "description": "El cóndor andino, majestuoso ave rapaz, enfrenta amenazas como la pérdida de hábitat y la intoxicación por plomo. La conservación incluye la protección de sus áreas de anidación y esfuerzos para abordar los riesgos asociados con la ingestión de plomo.",
           "content": "Programas de monitoreo y rehabilitación de cóndores, así como la promoción de prácticas agrícolas sostenibles para reducir la exposición al plomo, son parte de las estrategias de conservación."
         },
         {
           "titly eso ": "Huerequeque",
           "image": "https://live.staticflickr.com/3094/3098844358_c3c01d8f92_z.jpg",
-          "status": "4",
+          "status": 4,
           "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
           "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
         }
@@ -718,21 +718,21 @@
             {
               "title": "Delfín Rosado",
               "image": "https://peru.info/archivos/publicacion/170-imagen-151611372018.jpg",
-              "status": "En peligro",
+              "status": 3,
               "description": "El delfín rosado, habitante de los ríos amazónicos de Loreto, se encuentra en peligro debido a la pérdida de hábitat y la contaminación del agua. La conservación de esta especie incluye la protección de sus zonas de reproducción y esfuerzos para reducir la contaminación.",
               "content": "Proyectos de investigación y monitoreo se llevan a cabo para comprender mejor las amenazas que enfrenta el delfín rosado. También se implementan programas de educación ambiental para sensibilizar a las comunidades locales sobre la importancia de la conservación fluvial."
             },
             {
               "title": "Tucán Pico Iris",
               "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Keel-billed_Toucan_%2816201157519%29.jpg",
-              "status": "En peligro crítico",
+              "status": 4,
               "description": "El tucán pico iris, especie colorida y distintiva de la región amazónica, enfrenta la pérdida de su hábitat debido a la deforestación. La caza ilegal también representa una amenaza significativa para esta especie.",
               "content": "Iniciativas de reforestación y la creación de áreas protegidas son esenciales para preservar el hábitat del tucán pico iris. Además, se están implementando medidas para combatir la caza furtiva y promover prácticas sostenibles de uso del suelo."
             },
             {
               "title": "Jaguar",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.JPG/1200px-Jaguar_%28Panthera_onca_palustris%29_female_Piquiri_River_2.JPG",
-              "status": "En peligro",
+              "status": 3,
               "description": "El jaguar, felino majestuoso de la selva amazónica, enfrenta amenazas como la caza ilegal y la fragmentación del hábitat. La conservación de esta especie incluye la creación de corredores biológicos y la aplicación de leyes contra la caza furtiva.",
               "content": "Se están llevando a cabo investigaciones para entender mejor la ecología del jaguar en Loreto. Además, se están implementando medidas para fortalecer la protección de las áreas naturales y promover la coexistencia armoniosa entre las comunidades locales y la vida silvestre."
             }
@@ -773,21 +773,21 @@
             {
               "title": "Jaguar (Panthera onca)",
               "image": "https://img.freepik.com/fotos-premium/jaguar-panthera-onca-su-entorno-natural_410516-47564.jpg",
-              "status": "En peligro crítico",
+              "status": 4,
               "description": "El jaguar es el felino más grande de América y se encuentra en peligro crítico de extinción en la región de Madre de Dios debido a la pérdida de hábitat y la caza furtiva. Su preservación es crucial para mantener el equilibrio ecológico en la selva.",
               "content": "Se están implementando medidas de conservación, como la creación de reservas y programas de monitoreo, para proteger y preservar la población de jaguares en la región."
             },
             {
               "title": "Ara macao (Guacamayo rojo)",
               "image": "https://www.ngenespanol.com/wp-content/uploads/2023/01/guacamaya-roja-el-ave-que-oestenta-sus-colores-en-america-latina.jpg",
-              "status": "En peligro",
+              "status": 3,
               "description": "El ara macao, conocido como guacamayo rojo, enfrenta amenazas debido a la deforestación y el tráfico ilegal de mascotas en Madre de Dios. Este colorido loro desempeña un papel vital en la dispersión de semillas y la diversidad biológica.",
               "content": "Los esfuerzos de conservación incluyen la protección de su hábitat y la aplicación de leyes para combatir el comercio ilegal de fauna silvestre."
             },
             {
               "title": "Oso hormiguero gigante (Myrmecophaga tridactyla)",
               "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Myresluger2.jpg",
-              "status": "Vulnerable",
+              "status": 2,
               "description": "El oso hormiguero gigante se enfrenta a amenazas en Madre de Dios debido a la degradación del bosque y la caza. Este mamífero insectívoro juega un papel crucial en el control de poblaciones de insectos.",
               "content": "Los programas de conservación se centran en la protección de sus hábitats naturales y la concientización sobre la importancia de preservar esta especie única."
             }
@@ -825,21 +825,21 @@
           {
             "title": "Vicuña",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQs590NkGWg_zLkrOvbvr1iE6HvP-3snph2kE4Nz7DoNY8YvmZCzuaSyRyAbtc9sY9bTQ&usqp=CAU",
-            "status": "1",
+            "status": 1,
             "description": "La vicuña es un camélido sudamericano que habita en las zonas de montaña de Moquegua. Esta especie ha sido emblemática en la región andina y se encuentra adaptada a altitudes elevadas.",
             "content": "Los esfuerzos de conservación se centran en la protección de los hábitats de vicuñas y la promoción de prácticas sostenibles para garantizar su supervivencia."
           },
           {
             "title": "Zorro Andino",
             "image": "https://www.tierra-inca.com/album/photos/004/00412.jpg",
-            "status": "2",
+            "status": 2,
             "description": "El zorro andino es un mamífero que puede adaptarse a diversas altitudes y hábitats en Moquegua. Su presencia contribuye a la biodiversidad de la región.",
             "content": "La conservación del zorro andino incluye la preservación de áreas naturales y la concientización sobre la importancia de su papel en el equilibrio ecológico."
           },
           {
             "title": "Cóndor de los Andes",
             "image": "https://peru.info/archivos/publicacion/136-imagen-1457192582021.jpg",
-            "status": "3",
+            "status": 3,
             "description": "El cóndor de los Andes, majestuoso ave rapaz, habita en las regiones montañosas de Moquegua. Afronta amenazas como la pérdida de hábitat y la intoxicación por plomo.",
             "content": "Los programas de conservación del cóndor incluyen la protección de sus áreas de anidación, el monitoreo de su población y esfuerzos para abordar los riesgos asociados con la ingestión de plomo."
           }
@@ -873,21 +873,21 @@
             {
               "title": "Boa constrictora",
               "image": "https://www.zooplus.es/magazine/wp-content/uploads/2021/10/Boa-constrictor-1.jpeg",
-              "status": "4",
+              "status": 4,
               "description": "El oso de anteojos es una especie emblemática de la región andina de Lima. Su población ha disminuido debido a la pérdida de hábitat y la caza furtiva. Los esfuerzos de conservación se centran en proteger sus hábitats naturales y combatir la caza ilegal.",
               "content": "Se están implementando programas de reforestación y educación ambiental para preservar los bosques andinos y concientizar a la comunidad sobre la importancia de la conservación de esta especie en peligro."
             },
             {
               "title": "Sapo andino",
               "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/52130571/large.jpg",
-              "status": "3",
+              "status": 3,
               "description": "El sapo andino, Rhinella spinulosa, habita en zonas altas de los Andes, siendo común en montañas.",
               "content": "El sapo andino, científicamente conocido como Rhinella spinulosa, es una especie anfibia que se encuentra principalmente en áreas montañosas de los Andes sudamericanos, a altitudes elevadas que pueden superar los 3000 metros sobre el nivel del mar."
             },
             {
               "titly eso ": "Rana marsupial peruana",
               "image": "https://cdn.www.gob.pe/uploads/document/file/1793875/standard_WhatsApp%20Image%202021-04-10%20at%2009.33.43.jpeg.jpeg",
-              "status": "4",
+              "status": 4,
               "description": "El huerequeque, una especie de rata arbórea endémica de la región, enfrenta amenazas debido a la pérdida de su hábitat natural. Las actividades humanas y la fragmentación del bosque contribuyen a su declive.",
               "content": "Se están llevando a cabo estudios para comprender mejor la ecología del huerequeque, y se implementan medidas de conservación, como la creación de áreas protegidas y la promoción de prácticas sostenibles de uso del suelo."
             }
