@@ -1,0 +1,50 @@
+[
+    {
+        "site":"loreto",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Grupo AJE","Superfrutos que conservan bosques","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"],["Profonanpe","Construyendo Resiliencia en los Humedales de la Provincia Datem del Marañón, Perú","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"],["Viridis Tours","Viridis Tours","2011 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"apurimac",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Perú Biodiverso","Perú Biodiverso","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"huanuco",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Viridis Tours","Viridis Tours","2011 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"ica",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Huarango Nature","HUARANGO NATURE","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"la_libertad",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["ECO BAZAR","Eco Bazar","2019 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"lambayeque",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Huarango Nature","HUARANGO NATURE","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"lima",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["UNACEM Perú","Área de Conservación Privada Lomas de Quebrada Río Seco de UNACEM Perú S.A.","2021 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"madre_de_dios",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["AIDER","Proyecto REDD+ Evio Kuiñaje Ese Eja Cuana para mitigar el cambio climático, Madre de Dios – Perú","2010 - 2031","Vida de Ecosistemas Terrestres","PLANETA"],["Perú Biodiverso","Perú Biodiverso","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"moquegua",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Huarango Nature","HUARANGO NATURE","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"pasco",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["Coca-Cola Perú","Gestión participativa para la conservación, reforestación y manejo de áreas de interés hídrico en la Reserva Biósfera de Oxapampa Asháninka-Yanesha (RBOAY)","2014 - 2030","Vida de Ecosistemas Terrestres","PLANETA"],["Perú Biodiverso","Perú Biodiverso","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"piura",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["AIDER","Siembra y cosecha de agua, canon de servicios hídricos y reconocimiento de pago de servicios ambientales, en el marco de la Cooperación Sur Sur","2019 - 2021","Vida de Ecosistemas Terrestres","PLANETA"],["Huarango Nature","HUARANGO NATURE","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"],["ONG Progreso","Recuperación de áreas degradadas mediante la reforestación a nivel de cuencas hidrográficas en la región Piura","2020 - 2023","Vida de Ecosistemas Terrestres","PLANETA"]]
+    },
+    {
+        "site":"ucayali",
+        "arr":[["ORGANIZACIÓN","NOMBRE DE LA INICIATIVA","AÑO INICIO - CIERRE","ODS","TEMÁTICA"],["AIDER","Negocios sostenibles para el manejo forestal comunitario en Ucayali, Perú","2019 - 2024","Vida de Ecosistemas Terrestres","PLANETA"],["Bosques Amazónicos","Programa de restauración y reforestación en CAMPO VERDE, UCAYALI","2008 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"],["Grupo AJE","Superfrutos que conservan bosques","2017 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"],["Viridis Tours","Viridis Tours","2011 - Vigente","Vida de Ecosistemas Terrestres","PLANETA"]]
+    }
+]
